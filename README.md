@@ -1,2 +1,2 @@
-# PRODIGY_WD_04
-personal portfolio website
+# PRODIGY-WD-04
+portfolio website
